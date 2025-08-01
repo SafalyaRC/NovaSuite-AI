@@ -8,7 +8,7 @@ const Testimonial = () => {
       name: "John Doe",
       title: "Marketing Director, TechCorp",
       content:
-        "ContentAI has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week.",
+        "NovaSuite-AI has revolutionized our content workflow. The quality of the articles is outstanding, and it saves us hours of work every week. It's a game-changer for our marketing team!",
       rating: 4,
     },
     {
@@ -17,7 +17,7 @@ const Testimonial = () => {
       name: "Jane Smith",
       title: "Content Creator, TechCorp",
       content:
-        "ContentAI has made our content creation process effortless. The AI tools have helped us produce high-quality content faster than ever before.",
+        "NovaSuite-AI has made our content creation process effortless. The AI tools have helped us produce high-quality content faster than ever before. The image generator is my personal favorite.",
       rating: 5,
     },
     {
@@ -26,7 +26,7 @@ const Testimonial = () => {
       name: "David Lee",
       title: "Content Writer, TechCorp",
       content:
-        "ContentAI has transformed our content creation process. The AI tools have helped us produce high-quality content faster than ever before.",
+        "NovaSuite-AI's resume review tool is a must-have. It provided a detailed and accurate analysis that helped me land my dream job. I highly recommend it!",
       rating: 4,
     },
   ];
